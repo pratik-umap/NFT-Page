@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NFT-Page/static/css/main.4f08292d.chunk.css",
+    "main.js": "/NFT-Page/static/js/main.b8080949.chunk.js",
+    "main.js.map": "/NFT-Page/static/js/main.b8080949.chunk.js.map",
+    "runtime-main.js": "/NFT-Page/static/js/runtime-main.f6e18c00.js",
+    "runtime-main.js.map": "/NFT-Page/static/js/runtime-main.f6e18c00.js.map",
+    "static/js/2.13eb657e.chunk.js": "/NFT-Page/static/js/2.13eb657e.chunk.js",
+    "static/js/2.13eb657e.chunk.js.map": "/NFT-Page/static/js/2.13eb657e.chunk.js.map",
+    "index.html": "/NFT-Page/index.html",
+    "static/css/main.4f08292d.chunk.css.map": "/NFT-Page/static/css/main.4f08292d.chunk.css.map",
+    "static/js/2.13eb657e.chunk.js.LICENSE.txt": "/NFT-Page/static/js/2.13eb657e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6e18c00.js",
+    "static/js/2.13eb657e.chunk.js",
+    "static/css/main.4f08292d.chunk.css",
+    "static/js/main.b8080949.chunk.js"
+  ]
+}
